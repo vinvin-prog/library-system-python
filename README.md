@@ -225,7 +225,7 @@ Contributions are welcome! If you have suggestions for improving the project, fe
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Amiel Vincent De Castro**
 
